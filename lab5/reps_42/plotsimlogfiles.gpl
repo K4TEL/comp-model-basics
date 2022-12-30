@@ -1,0 +1,9 @@
+reset
+load "gnuplot/Queue_Length.gpl"
+pause -1 "Queue_Length"
+
+reset
+load "gnuplot/Queue_Delay.gpl"
+pause -1 "Queue_Delay"
+
+pause -1 "Done"

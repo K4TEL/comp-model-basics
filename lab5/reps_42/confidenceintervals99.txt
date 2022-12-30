@@ -1,0 +1,11 @@
+#name, percent, n, avrg, half length, lower ci endpoint, upper ci endpoint
+
+Queue_Delay_avrg_iid 99 5 2.504000 2.100484 4.604484 0.403516
+Queue_Delay_count_iid 99 5 100.000000 0.000000 100.000000 100.000000
+Queue_Delay_max_iid 99 5 106.200000 46.187093 152.387093 60.012907
+Queue_Delay_min_iid 99 5 0.000000 0.000000 0.000000 0.000000
+Queue_Delay_sum_iid 99 5 250.400000 210.048386 460.448386 40.351614
+Queue_Length_avrg_iid 99 5 0.003830 0.003658 0.007488 0.000171
+Queue_Length_count_iid 99 5 202.000000 0.000000 202.000000 202.000000
+Queue_Length_max_iid 99 5 1.200000 0.920800 2.120800 0.279200
+Queue_Length_min_iid 99 5 0.000000 0.000000 0.000000 0.000000

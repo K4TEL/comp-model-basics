@@ -1,0 +1,3 @@
+Number of servers: 2
+Average processing time: 180
+Distribution of processing times: DISCRETE

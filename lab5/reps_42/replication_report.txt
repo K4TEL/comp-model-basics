@@ -1,0 +1,44 @@
+CPN Tools report for simulation replications
+Net: /cygdrive/C/Users/Admin/Documents/Study/OCM/lab5/QueueSystemConfigs.cpn
+Output directory: /cygdrive/C/Users/Admin/Documents/Study/OCM/lab5/output/reps_42
+
+Simulation no.: 1
+Steps.........: 301
+Model time....: 60783
+Stop reason...: The following stop criteria are fulfilled:
+ - Breakpoint: One_Hundred_Queue_Delays
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 2
+Steps.........: 301
+Model time....: 66721
+Stop reason...: The following stop criteria are fulfilled:
+ - Breakpoint: One_Hundred_Queue_Delays
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 3
+Steps.........: 301
+Model time....: 65029
+Stop reason...: The following stop criteria are fulfilled:
+ - Breakpoint: One_Hundred_Queue_Delays
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 4
+Steps.........: 301
+Model time....: 78965
+Stop reason...: The following stop criteria are fulfilled:
+ - Breakpoint: One_Hundred_Queue_Delays
+Time to run simulation: 0 seconds
+
+
+Simulation no.: 5
+Steps.........: 301
+Model time....: 61443
+Stop reason...: The following stop criteria are fulfilled:
+ - Breakpoint: One_Hundred_Queue_Delays
+Time to run simulation: 0 seconds
+
+
